@@ -2,9 +2,9 @@
 
 Hibernate provides a framework for performing CRUD (Create, Read, Update, Delete) operations.
 
-* src/com/entity/Student.java:
+* src/com/entity/Car.java:
 
-This is likely the entity class representing a Student. It should be annotated with Hibernate/JPA annotations (like @Entity, @Table, @Id, etc.) to map the class to a database table.
+This is likely the entity class representing a Car. It should be annotated with Hibernate/JPA annotations (like @Entity, @Table, @Id, etc.) to map the class to a database table.
 
 * CRUD Operation Files (DeleteData.java, FetchData.java, GetSingleData.java, InsertData.java, UpdateData.java):
 
